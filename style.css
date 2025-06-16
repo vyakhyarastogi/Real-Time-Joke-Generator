@@ -3,6 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
 
     height: 100vh;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -10,15 +11,23 @@ body {
 
 .container {
     background-color: antiquewhite;
-    width: 300px;
-    padding: 3rem;
+    width: 400px;
+    padding: 2rem;
     border: 1px solid #cccccc4e;
     border-radius: 10px;
+    text-align: center;
 
 }
 
 h2 {
     text-align: center;
+}
+
+.joke {
+    margin: 1rem 0;
+    font-size: 1rem;
+    color: #444;
+    min-height: 50px;
 }
 
 #jokeBox {
@@ -27,7 +36,7 @@ h2 {
 
 button {
     padding: 0.6rem 1rem;
-    margin: 0.5rem;
+    margin: 0.1rem;
 
     cursor: pointer;
     font-weight: bold;
