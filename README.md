@@ -48,7 +48,8 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates modern **Pro
 
 Created with ❤️ by Vyakhya (https://github.com/vyakhyarastogi)  
 📧 vyakhyarastogi975@gmail.com
-🔗 LinkedIn:linkedin.com/in/vyakhya-rastogi-283a78246
+
+🔗 LinkedIn: linkedin.com/in/vyakhya-rastogi-283a78246
 
 
 
