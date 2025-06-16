@@ -42,7 +42,14 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates modern **Pro
 ---
 
 ### 📌 How to Run Locally
-![image](https://github.com/user-attachments/assets/921c829d-2bfc-470f-9d5a-9587e28e7f11)
+### ![image](https://github.com/user-attachments/assets/921c829d-2bfc-470f-9d5a-9587e28e7f11)
+
+### 📬 Contact
+
+Created with ❤️ by Vyakhya (https://github.com/vyakhyarastogi)  
+📧 vyakhyarastogi975@gmail.com
+🔗 LinkedIn:linkedin.com/in/vyakhya-rastogi-283a78246
+
 
 
 
